@@ -4244,7 +4244,7 @@
   top:0px;
   width:201px;
   height:26px;
-  font-family:'MicrosoftYaHei', '微软雅黑';
+  font-family:'微软雅黑';
   font-weight:410;
   font-style:normal;
   font-size:14px;
@@ -4377,7 +4377,7 @@
   top:0px;
   width:201px;
   height:26px;
-  font-family:'MicrosoftYaHei', '微软雅黑';
+  font-family:'微软雅黑';
   font-weight:410;
   font-style:normal;
   font-size:14px;
@@ -4421,62 +4421,4 @@
   top:10px;
   width:80px;
   word-wrap:break-word;
-}
-#u1065_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:92px;
-  height:35px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(255, 255, 255, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:13px;
-  text-align:right;
-}
-#u1065 {
-  position:absolute;
-  left:750px;
-  top:130px;
-  width:92px;
-  height:35px;
-  font-size:13px;
-  text-align:right;
-}
-#u1066 {
-  position:absolute;
-  left:2px;
-  top:10px;
-  width:80px;
-  word-wrap:break-word;
-}
-#u1067 {
-  position:absolute;
-  left:842px;
-  top:130px;
-  width:245px;
-  height:35px;
-}
-#u1067_input {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:245px;
-  height:35px;
-  font-family:'Arial Normal', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  text-decoration:none;
-  color:#000000;
-}
-#u1067_input:disabled {
-  color:grayText;
 }
